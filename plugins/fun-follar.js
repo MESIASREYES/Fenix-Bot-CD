@@ -22,7 +22,7 @@ let coger =
 ●
 █▄
 █ ▄█▀█● *${text}*
-*𝑇𝐸 𝐴𝐻 𝐶𝑂𝐷𝐼𝐺𝑂 𝐵𝐼𝐸𝑁 𝑅𝐼𝐶𝑂* 🥵`.trim()
+*𝑇𝐸 𝐴𝐻 𝐶𝑂𝐺𝐼𝐷𝑂 𝐵𝐼𝐸𝑁 𝑅𝐼𝐶𝑂* 🥵`.trim()
 
 await conn.reply(m.chat, coger, m, { mentions: [m.sender, text.replace('@', '') + '@s.whatsapp.net'] })
 }
