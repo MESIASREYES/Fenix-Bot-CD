@@ -30,27 +30,13 @@ _- Si en algún momento recibe un mensaje del numero del Bot y no es un comando 
 *- https://github.com/BochilGaming/games-wabot-md*
 
 *➤ Agradecimientos a:*
-*- Unx21*
-*- Narutomo*
-*- BochilGaming*
-*- Unxteam*
-*- Bochilteam*
-*- ConfuMods*
-*- Theh2so4*
-*- Hiro*
-*- The.sad.boy01*
-*- botstylee*
-*- Amel*
-*- FatihArridho*
-*- Adiwajshing*
-*- Darlyn*
-*- Etc.*
+*- ERICK*
 
 *⁉️ Te quedaron dudas?*
 _- Si todavía tienes alguna duda o reclamo de lo mencionado aqui o referente al Bot, contáctame a mi numero personal al cual estaré respondiendo lo antes posible para brindarte una solución y/o hacerme responsable de alguna reclamación_ 
 
-> wa.me/5219992095479
-> Bruno Sobrino 
-> Correo electronico: theshadowbrokers133@gmailcom
+> wa.me/50376556909
+> REYES
+> Correo electronico: azazelreyes2007@gmail.com
 
-*∆ THE MYSTIC - BOT - MD ∆*`;
+*∆ Fenix-Bot-MC ∆*`;
