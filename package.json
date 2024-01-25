@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Wilsmac/Fenix-Bot-CD",
+  "homepage": "https://github.com/MESIASREYES/Fenix-Bot-CD",
   "author": {
     "name": "Wilsmac"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wilsmac/Fenix-Bot-CD.git"
+    "url": "git+https://github.com/MESIASREYES/Fenix-Bot-CD.git"
   },
   "bugs": {
-    "url": "https://github.com/Wilsmac/Fenix-Bot-CD/issues"
+    "url": "https://github.com/MESIASREYES/Fenix-Bot-CD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
