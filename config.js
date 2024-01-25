@@ -11,15 +11,15 @@ global.botNumercode = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['50376556909', '𝗖𝗥𝗘𝗔𝗗𝗢𝗥', true]
+  ['50376436909', '𝗖𝗥𝗘𝗔𝗗𝗢𝗥', true]
 ];
 
-global.suittag = ['50376556909'];
-global.prems = ['50376556909'];
+global.suittag = ['50376436909'];
+global.prems = ['50376436909'];
 
 
 global.official = [
-["50376556909", 'CREADOR💋', 1]
+["50376436909", 'CREADOR💋', 1]
 ];
 
 global.creator = `☆𝐑𝐄𝐘𝐄𝐒➪𝐄𝐑𝐈𝐂𝐊☆`
@@ -39,7 +39,7 @@ global.imagen4 = fs.readFileSync('./Menu.png');
 global.imagen5 = fs.readFileSync('./src/+18.jpg');
 global.imagen6 = fs.readFileSync('./Menu3.png');
 
-global.mods = [];
+global.owner = [50376436909];
 
 //* *******Tiempo***************
 global.d = new Date(new Date + 3600000);
@@ -58,7 +58,7 @@ global.mysticbot = 'https://github.com/MESIASREYES/Fenix-Bot-CD';
 global.waitt = '⁀⸱⁀⸱︵૰⳹․㊪․⳼૰︵⸱⁀⸱⁀․.\n\n┈┈┈Cargando┈⃐ᤢ࣪┈┈\n\n▰▰▰▰▰ ⁵⁰ %*';
 global.waittt = '⁀⸱⁀⸱︵૰⳹․㊪․⳼૰︵⸱⁀⸱⁀․.\n\n┈┈┈Cargando┈⃐ᤢ࣪┈┈\n\n▰▰▰▰▰▰▰ ⁸⁰  %*';
 global.waitttt = '⁀⸱⁀⸱︵૰⳹․㊪․⳼૰︵⸱⁀⸱⁀․.\n\n┈┈┈Cargando┈⃐ᤢ࣪┈┈\n\n▰▰▰▰▰▰▰▰▰ ¹⁰⁰ %*';
-global.nomorown = '50376556909';
+global.nomorown = '50376436909';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
