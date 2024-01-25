@@ -1,4 +1,4 @@
-services:3
+services:
   - type: web
     name: fenix-bot-cd
     env: docker
