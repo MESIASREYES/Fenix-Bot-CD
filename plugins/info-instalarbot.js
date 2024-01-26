@@ -1,25 +1,12 @@
 const handler = async (m, {conn, usedPrefix}) => {
   const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
   const document = doc[Math.floor(Math.random() * doc.length)];
-  const text = `*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾𝚇𝙼𝙸𝙽𝙴 𝙷𝙾𝚂𝚃*
-> Tutorial: https://youtu.be/eC9TfKICpcY
-> Pagina Oficial: https://boxmineworld.com
-> Dashboard: https://dash.boxmineworld.com/home
-> Panel: https://panel.boxmineworld.com
-> Soporte: https://discord.gg/84qsr4v 
-
-------------------------------------
-—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻-𝚃𝙴𝚁𝙼𝚄𝚇
-> https://youtu.be/yRS4m36Zwkw
-
-------------------------------------
-
-*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*
+  const text = `*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*
 > Comandos:
 - cd && termux-setup-storage
 - apt-get update -y && apt-get upgrade -y
 - pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
-- git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD
+- git clone https://github.com/MESIASREYES/Fenix-Bot-MC.git && cd Fenix-Bot-MC
 - yarn install
 - npm install
 - npm update
@@ -29,15 +16,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 
 —◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd TheMystic-Bot-MD
-> npm start
-
-------------------------------------
-
-—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd TheMystic-Bot-MD
-> rm -rf MysticSession
+> cd Fenix-Bot-MC
 > npm start`.trim();
   const buttonMessage= {
     'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
