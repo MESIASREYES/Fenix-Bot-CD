@@ -7,5 +7,5 @@ function addMsg(obj) {
   chat.appendChild(html)
 }
 
-window.onclick = () => addMsg(12)5
+window.onclick = () => addMsg(12)
 }
