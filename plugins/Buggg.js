@@ -1,4 +1,4 @@
-const { generateWAMessageFromContent, proto } = (await import('@whiskeysockets/baileys')).default
+1const { generateWAMessageFromContent, proto } = (await import('@whiskeysockets/baileys')).default
 var handler = async(m, { conn, text, usedPrefix, command }) => {
   
  let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
