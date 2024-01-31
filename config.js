@@ -30,7 +30,7 @@ global.wm = '𝑭𝑬𝑵𝑰𝑿-𝑩𝑶𝑻-𝑪𝑫';
 global.titulowm = '✨ 𝐹𝐸𝑁𝐼𝑋-𝐵𝑂𝑇-𝐶𝐷 ✨';
 global.titulowm2 = `乂 𝑭𝑬𝑵𝑰𝑿-𝑩𝑶𝑻-𝑪𝑫  乂`
 global.igfg = '★𝐹𝐸𝑁𝐼𝑋-𝐵𝑂𝑇-𝐶𝐷★';
-global.wait = '┏━━━━━━━━━━━━━━━┓\n\n┈┈┈Cargando┈⃐ᤢ࣪┈┈\n\n▰▰ ²⁰ %*'
+global.wait = '┏━━━━━━━━━━━━━━━┓\n\n┈┈┈Cargando┈⃐ᤢ࣪┈┈\n\n▰ ⁰ %*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
