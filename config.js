@@ -39,7 +39,7 @@ global.imagen4 = fs.readFileSync('./Menu.png');
 global.imagen5 = fs.readFileSync('./src/+18.jpg');
 global.imagen6 = fs.readFileSync('./Menu3.png');
 
-global.owner = [50376436909];
+global.mods = [];
 
 //* *******Tiempo***************
 global.d = new Date(new Date + 3600000);
