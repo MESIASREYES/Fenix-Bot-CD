@@ -19,7 +19,9 @@ global.prems = ['50376436909'];
 
 
 global.official = [
-["50376436909", 'CREADOR💋', 1]
+["50376436909", 'CREADOR', 1]
+ ["5491138763482", 'COLABORADORA', 1]
+  ["447863572502", 'COLABORADOR', 1] 
 ];
 
 global.creator = `☆𝐑𝐄𝐘𝐄𝐒➪𝐄𝐑𝐈𝐂𝐊☆`
