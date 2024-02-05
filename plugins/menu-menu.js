@@ -179,6 +179,8 @@ await conn.sendMessage(m.chat, {text: ` ┏━━━━━━━━━━━━�
 〚♱〛➣ _${usedPrefix}pista_
 〚♱〛➣ _${usedPrefix}akinator_
 〚♱〛➣ _${usedPrefix}wordfind_
+〚♱〛➣ _${usedPrefix}follar *<@tag>*_
+〚♱〛➣ _${usedPrefix}follar_2 *<@tag>*_
    ┗━━━━━━━━━━━━━━━━┛
    ۩
     ┏━━━━━━━━━━━━━━━━┓
