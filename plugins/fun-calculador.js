@@ -1,6 +1,6 @@
 const handler = async (m, { conn, command, text, usedPrefix }) => {
   if (!text) throw `*[❗] Debes mencionar a alguien para el cálculo*`;
-  const percentages = (500).getRandom();
+  const percentages = (999999).getRandom();
   let emoji = '';
   let description = '';
   switch (command) {
@@ -27,9 +27,9 @@ const handler = async (m, { conn, command, text, usedPrefix }) => {
     case 'pajero':
     case 'pajera':
       emoji = '😏💦';
-      if (percentages < 50) {
+      if (percentages < 100) {
         description = `*Los cálculos han arrojado que ${text.toUpperCase()} es ${percentages}% ${command}. ${emoji}*\n*-❥ Tal vez necesites más hobbies! 🎨*`;
-      } else if (percentages > 100) {
+      } else if (percentages > 1000) {
         description = `*Los cálculos han arrojado que ${text.toUpperCase()} es ${percentages}% ${command}. ${emoji}*\n*-❥ Eso es una resistencia admirable! 💪*`;
       } else {
         description = `*Los cálculos han arrojado que ${text.toUpperCase()} es ${percentages}% ${command}. ${emoji}*\n*-❥ Mantén el buen trabajo (en solitario). 🙌*`;
